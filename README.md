@@ -1,2 +1,3 @@
-Example Update # AutoCompleteExample
-Example of Simple Auto Complete
+# AutoCompleteExample
+##Example Update 
+###Example of Simple Auto Complete
